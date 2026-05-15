@@ -1,0 +1,44 @@
+POCHA
+
+HAMBUR-
+GUESAS
+
+N m IT E
+I y
+
+HAMBURGUESA
+CLÁSICA_
+
+De asado de tira molida en casa con
+queso cheddar, cebolla caramelizada,
+pickles, lechuga y tomate.
+
+32
+
+HAMBURGUESA
+SAN RAMON_
+
+Con doble tocino y doble cheddar,
+lechuga, tomate y pickles.
+
+36_
+
+HAMBURGUESA
+FIGARI_
+
+Con champiñones salteados,
+aros de cebolla, queso edam,
+lechuga y tomate.
+
+38_ '
+
+!
+POLLO =
+CRISPY —
+
+Jugosa pechuga de pollo empanizada,
+ueso chedd u?echugo,
+
+tomate y pickles
+314_
+
