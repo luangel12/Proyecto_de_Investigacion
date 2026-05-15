@@ -1,7 +1,6 @@
+pandas
 opencv-python
+pillow
+matplotlib
 pytesseract
 easyocr
-pandas
-numpy
-matplotlib
-python-Levenshtein
