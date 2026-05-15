@@ -1,0 +1,5 @@
+image_id,file_name,restaurant_type,image_quality,menu_format,orientation,notes
+1,Menu_Restaurant_001.JPG,restaurante,buena,fisico,vertical,texto claro
+2,Menu_Chifa_001.JPG,chifa,regular,fisico,vertical,ligera inclinacion
+3,Menu_Criollo_001.JPG,criollo,buena,digital,horizontal,tiene varias columnas
+4,Menu_Polleria_001.JPG,polleria,baja,fisico,vertical,presenta reflejo
