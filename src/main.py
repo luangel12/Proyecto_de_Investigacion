@@ -3,7 +3,7 @@ from PIL import Image
 import pytesseract
 import pandas as pd
 
-# Ruta de instalación de Tesseract en Windows
+# Conexión con Tesseract en Windows
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # Rutas del proyecto
@@ -12,7 +12,7 @@ RAW_DIR = BASE_DIR / "data" / "raw"
 RESULTS_DIR = BASE_DIR / "results" / "ocr_outputs"
 RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
-# Extensiones permitidas
+# Extensiones permitidas para la lectura de datos
 valid_extensions = [".jpg", ".jpeg", ".png", ".JPG", ".JPEG", ".PNG"]
 
 results = []
